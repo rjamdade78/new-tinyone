@@ -1,0 +1,70 @@
+.mb-95{
+    margin-bottom: 95px;
+}
+.mb-80{
+    margin-bottom: 80px;
+}
+.mb-130{
+    margin-bottom: 130px;
+}
+.mt-75{
+    margin-top: 75px;
+}
+.mb-40{
+    margin-bottom: 40px;
+}
+.w-100{
+    width: 100% !important;
+}
+
+ul{
+    list-style: none;
+}
+a:link, a:hover{
+    text-decoration: none;
+}
+
+
+
+/* /
+
+
+
+
+
+                  <div class="main-info">
+                    <h3 class="sec-hedding-main ">
+                      Inspire your inspiration
+                    </h3>
+                    <h4 class="sec-subheding">
+                      Simple to use for your app, products showcase and your inspiration
+                    </h4>
+                    <p class="sec-para">
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis. Proin viverra risus a eros volutpat tempor. In quis arcu et eros porta lobortis sit
+                    </p>
+                  </div>
+
+
+
+                  <div class="link">
+                  <ul class="icon">
+                    <li>
+                      <a href="javasceipt">
+                        <i class="fab fa-apple"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="javasceipt">
+                        <i class="fab fa-android"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="javasceipt">
+                        <i class="fab fa-windows"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+
+
+// */
